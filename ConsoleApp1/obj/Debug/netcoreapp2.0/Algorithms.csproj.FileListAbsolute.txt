@@ -1,0 +1,10 @@
+c:\users\hrachg\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Algorithms.deps.json
+c:\users\hrachg\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Algorithms.runtimeconfig.json
+c:\users\hrachg\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Algorithms.runtimeconfig.dev.json
+c:\users\hrachg\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Algorithms.dll
+c:\users\hrachg\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.0\Algorithms.pdb
+c:\users\hrachg\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Algorithms.csproj.CoreCompileInputs.cache
+c:\users\hrachg\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfoInputs.cache
+c:\users\hrachg\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Algorithms.AssemblyInfo.cs
+c:\users\hrachg\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Algorithms.dll
+c:\users\hrachg\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.0\Algorithms.pdb
