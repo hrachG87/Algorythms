@@ -20,7 +20,7 @@ namespace Algorithms
                 }
                 else
                 {
-                    return a[i];
+                    return a[i]; 
                 }
             }
 
